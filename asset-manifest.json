@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counterDummy/static/css/main.cc42a6b4.css",
+    "main.js": "/counterDummy/static/js/main.130a2613.js",
+    "index.html": "/counterDummy/index.html",
+    "main.cc42a6b4.css.map": "/counterDummy/static/css/main.cc42a6b4.css.map",
+    "main.130a2613.js.map": "/counterDummy/static/js/main.130a2613.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc42a6b4.css",
+    "static/js/main.130a2613.js"
+  ]
+}
